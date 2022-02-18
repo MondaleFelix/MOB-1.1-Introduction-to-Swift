@@ -146,27 +146,6 @@ Good place to save data, clean up resources,
 
 <!-- > -->
 
-## Building a wireframe
-
-Let's say we want to turn the "Hotel management" program into a real app.
-
-1. Think about the scenes the app needs.
-
-2. Draw the elements each scene needs.
-    - every element must be a native component of UIKit. Refer to the [Interface Essentials](https://developer.apple.com/design/human-interface-guidelines/ios/overview/interface-essentials/) You should be able to name every element in your scenes.
-
-3. Draw the transitions between scenes. How do I get to each scene?
-
-<!-- v -->
-
-Share in pairs your designs.
-
-- Any similar components?
-- Major differences?
-- Give each other feedback on what might be a better practice.
-
-<!-- v -->
-
 ## Demo Building a screen with storyboards
 
 Instructor takes a screen design and replicates it in the storyboard.
